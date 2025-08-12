@@ -19,15 +19,15 @@ Una divertida aplicación web para organizar sorteos de "Amigo Secreto" entre va
 ## 📦 ESTRUCTURA DEL PROYECTO
 
 amigo-secreto/
-|
+  |
+   
+  |---index.html     # Estructura principal
 
-|---index.html     # Estructura principal
+  |---style.css      # Estilos
 
-|---style.css      # Estilos
+  |---app.js         # Logica del sorteo, funcionalidades y validaciones
 
-|---app.js         # Logica del sorteo, funcionalidades y validaciones
-
-|---assets/        # Carpeta con recursos visuales e imagenes
+  |---assets/        # Carpeta con recursos visuales e imagenes
 
 
 ## 📋 FORMA DE USO
